@@ -1,4 +1,4 @@
-class Solution {
+class buystocks {
     public int maximumProfit(int prices[]) {
         int min = prices[0];
         int max = 0;
